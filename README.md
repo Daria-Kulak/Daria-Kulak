@@ -18,7 +18,7 @@ Hello, my name is Daria and I junior QA Engineer.
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-### Testing Documentation
+### Testing artefacts
 
 - [Checklists](https://github.com/Daria-Kulak/Portfolio)
 - [Test-Suites and Test-Cases](https://github.com/Daria-Kulak/Portfolio)
@@ -26,5 +26,5 @@ Hello, my name is Daria and I junior QA Engineer.
 - [SQL Queries](https://github.com/Daria-Kulak/Portfolio)
 - [Postman Collections](https://github.com/Daria-Kulak/Portfolio)
 
-### Linkedin-090909
+### Follow me
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/dariakułakowska)
