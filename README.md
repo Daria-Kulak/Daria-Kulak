@@ -20,11 +20,11 @@ Hello, my name is Daria and I junior QA Engineer.
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/Daria-Kulak/Portfolio)
+- [Test-Suites and Test-Cases](https://github.com/Daria-Kulak/Portfolio)
+- [Bug-Reports](https://github.com/Daria-Kulak/Portfolio)
+- [SQL Queries](https://github.com/Daria-Kulak/Portfolio)
+- [Postman Collections](https://github.com/Daria-Kulak/Portfolio)
 
 ### Linkedin-090909
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/dariakułakowska)
