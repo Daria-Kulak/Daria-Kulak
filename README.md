@@ -21,9 +21,9 @@ Hello, my name is Daria and I junior QA Engineer.
 ### Testing artefacts
 
 - [Checklists](https://github.com/Daria-Kulak/Portfolio)
-- [Test-Suites and Test-Cases](https://github.com/Daria-Kulak/Portfolio)
+- [Test-Suites and Test-Cases](https://github.com/Daria-Kulak/Portfolio/tree/main/Test%20cases)
 - [Bug-Reports](https://github.com/Daria-Kulak/Portfolio)
-- [SQL Queries](https://github.com/Daria-Kulak/Portfolio)
+- [SQL Queries](https://github.com/Daria-Kulak/Portfolio/tree/main/SQL)
 - [Postman Collections](https://github.com/Daria-Kulak/Portfolio)
 
 ### Follow me
