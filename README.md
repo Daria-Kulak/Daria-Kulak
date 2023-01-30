@@ -1,6 +1,6 @@
 ![Header](https://github.com/Daria-Kulak/Daria-Kulak/blob/main/assets/night-planets-header-8854-1024x300.jpg)
 ## About me 
-Hello, my name is Daria and I junior QA Engineer.
+Hello, world! ;)  My name is Daria and I'm junior QA Engineer.
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1Onxn8v-gGy5aaG60vP529s8oWwr6Jfv4/view?usp=sharing)
 
