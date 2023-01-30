@@ -2,7 +2,7 @@
 ## About me 
 Hello, my name is Daria and I junior QA Engineer.
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1XxpWh9NyqLaqs2Qlf30qXtXqLupkgZHv/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1Onxn8v-gGy5aaG60vP529s8oWwr6Jfv4/view?usp=sharing)
 
 
 ### Language and Tools
