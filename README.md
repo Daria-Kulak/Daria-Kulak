@@ -24,8 +24,8 @@ Hello, world! ;)  My name is Daria and I'm junior QA Engineer.
 - [Test-Suites and Test-Cases](https://github.com/Daria-Kulak/Portfolio/tree/main/Test%20cases)
 - [Bug-Reports](https://github.com/Daria-Kulak/Portfolio)
 - [SQL Queries](https://github.com/Daria-Kulak/Portfolio/tree/main/SQL)
-- [Postman Collections](![XML API] (https://www.postman.com/darakulak/workspace/swagger-petstore-daria-kulakowska/collection/25176879-484762fa-4c63-43d0-bc59-6f75f769a190?action=share&creator=25176879)     
-![REST API] (https://www.postman.com/darakulak/workspace/swagger-petstore-daria-kulakowska/collection/25176879-7863931d-acb9-458b-9756-6526d7667652?action=share&creator=25176879))
+- [Postman Collections](![Header XML API] (https://www.postman.com/darakulak/workspace/swagger-petstore-daria-kulakowska/collection/25176879-484762fa-4c63-43d0-bc59-6f75f769a190?action=share&creator=25176879)     
+![Header REST API] (https://www.postman.com/darakulak/workspace/swagger-petstore-daria-kulakowska/collection/25176879-7863931d-acb9-458b-9756-6526d7667652?action=share&creator=25176879))
 
 ### Follow me
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/dariakułakowska)
